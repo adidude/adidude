@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adidude
 - 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Typescript and DevOps practices
+- 🌱 I’m currently learning ...Typescript and Electronjs 
 
 <!---
 adidude/adidude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
