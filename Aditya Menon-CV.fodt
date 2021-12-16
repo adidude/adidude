@@ -173,7 +173,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="AU" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -1519,69 +1519,69 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P53">Professional Profile</text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="T37">A dynamic and experienced Computer Science Graduate with a strong academic record, excellent technical skills, and comprehensive practical work experience. Possesses demonstrable expertise learning new technology both academically and practically including working within financial services and other technology-based companies. <text:s/>Adopts a pro-active approach to professional development. </text:span><text:span text:style-name="T50">3-Time Dundee computing society </text:span><text:span text:style-name="T65">h</text:span><text:span text:style-name="T50">ackathon winner</text:span><text:span text:style-name="T37">. Ideally seeking a challenging and exciting role for a forward thinking, dynamic, and fast paced organisation </text:span><text:span text:style-name="T41">that aims to </text:span><text:span text:style-name="T48">shape a simpler, more accessible future</text:span><text:span text:style-name="T37">.</text:span></text:p>
-   <text:p text:style-name="P29">Key Skills</text:p>
+   <text:p text:style-name="P50">Professional Profile</text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T35">A dynamic and experienced Computer Science Graduate with a strong academic record, excellent technical skills, and comprehensive practical work experience. Possesses demonstrable expertise learning new technology both academically and practically including working within financial services and other technology-based companies. <text:s/>Adopts a pro-active approach to professional development and obtained further training covering Cloud Solutions, </text:span><text:span text:style-name="T53"><text:s/>Black-box Testing</text:span><text:span text:style-name="T35"> and Pro</text:span><text:span text:style-name="T49">blem Solving</text:span><text:span text:style-name="T35"> to support career within software development and technology. Ideally seeking a challenging and exciting role for a forward thinking, dynamic, and fast paced organisation </text:span><text:span text:style-name="T39">that aims to make the future</text:span><text:span text:style-name="T35">.</text:span></text:p>
+   <text:p text:style-name="P28">Key Skills</text:p>
    <text:section text:style-name="Sect1" text:name="Section1">
-    <text:p text:style-name="P24">Agile Project Management</text:p>
-    <text:p text:style-name="P23">Pro<text:span text:style-name="T73">blem Solving</text:span></text:p>
+    <text:p text:style-name="P23">Pro<text:span text:style-name="T62">blem Solving</text:span></text:p>
+    <text:p text:style-name="P22">Agile Project Management</text:p>
     <text:p text:style-name="P13">Software Development and Engineering</text:p>
-    <text:p text:style-name="P25">Cloud-based Solutions (AWS, GCP)</text:p>
-    <text:p text:style-name="P9"><text:span text:style-name="T51">Testing, Validation and Fault Resolution </text:span><text:span text:style-name="T53">(Debugging)</text:span></text:p>
-    <text:p text:style-name="P14"><text:span text:style-name="T66">Object Oriented</text:span> Design and Analysis</text:p>
+    <text:p text:style-name="P24">Cloud-based Solutions (AWS, GCP)</text:p>
+    <text:p text:style-name="P9"><text:span text:style-name="T44">Testing, Validation and Fault Resolution </text:span><text:span text:style-name="T46">(Debugging)</text:span></text:p>
+    <text:p text:style-name="P14"><text:span text:style-name="T55">Object Oriented</text:span> Design and Analysis</text:p>
    </text:section>
    <text:section text:style-name="Sect2" text:name="Section2">
-    <text:p text:style-name="P29">Education, Qualifications and Training</text:p>
-    <text:p text:style-name="P8"><text:span text:style-name="T29">BSc (Hons </text:span><text:span text:style-name="T32">2:2</text:span><text:span text:style-name="T29">):</text:span><text:span text:style-name="T37"><text:tab/>Bachelors degree in Computer Science, </text:span><text:span text:style-name="T54">University of Dundee (2021)</text:span></text:p>
-    <text:p text:style-name="P37"><text:span text:style-name="T35">Technical skills</text:span><text:span text:style-name="T29">:<text:tab/></text:span><text:span text:style-name="T37">Programming in </text:span><text:span text:style-name="T48">Python, </text:span><text:span text:style-name="T38">Typescript, </text:span><text:span text:style-name="T37">Javascript, Node.js, </text:span><text:span text:style-name="T46">Vue.js,</text:span><text:span text:style-name="T39"> </text:span><text:span text:style-name="T45">SQL,</text:span><text:span text:style-name="T39"> MySQL, PostgreSQL, Java, C</text:span><text:span text:style-name="T48">++</text:span><text:span text:style-name="T39">, </text:span><text:span text:style-name="T37">C</text:span><text:span text:style-name="T37">, C</text:span><text:span text:style-name="T61">#</text:span><text:span text:style-name="T37">, </text:span><text:span text:style-name="T40">Linux/</text:span><text:span text:style-name="T59">U</text:span><text:span text:style-name="T39">nix, </text:span><text:span text:style-name="T43">Raspberry Pi</text:span><text:span text:style-name="T39">, Arduino,</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T44">MATLAB</text:span><text:span text:style-name="T42">,</text:span><text:span text:style-name="T37"> HTML5, CSS,</text:span><text:span text:style-name="T39"> AWS</text:span><text:span text:style-name="T40">,</text:span><text:span text:style-name="T39"> </text:span><text:span text:style-name="T59">G</text:span><text:span text:style-name="T39">CP, Scala,</text:span><text:span text:style-name="T37"> PHP, Symfony, Git, Github, and Office 365</text:span></text:p>
-    <text:p text:style-name="P30"><text:span text:style-name="T29">A-Levels:</text:span><text:span text:style-name="T37"><text:tab/></text:span><text:span text:style-name="T64">CDE</text:span><text:span text:style-name="T48">,</text:span><text:span text:style-name="T37"> BTEC IT QCF </text:span><text:span text:style-name="T49">Distinction</text:span><text:span text:style-name="T37">, </text:span><text:span text:style-name="T54">British School of Bahrain (2017)</text:span></text:p>
-    <text:p text:style-name="P29"><draw:frame text:anchor-type="paragraph" draw:z-index="6" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P62" svg:width="16.835cm" svg:height="0.433cm" svg:x="0.12cm" svg:y="0.004cm">
+    <text:p text:style-name="P28">Education, Qualifications and Training</text:p>
+    <text:p text:style-name="P8"><text:span text:style-name="T29">BSc (Hons):</text:span><text:span text:style-name="T35"><text:tab/>Bachelors degree in Computer Science, </text:span><text:span text:style-name="T47">University of Dundee (2021)</text:span></text:p>
+    <text:p text:style-name="P58"><text:span text:style-name="T33">Technical skills</text:span><text:span text:style-name="T29">:<text:tab/></text:span><text:span text:style-name="T35">Programming in</text:span><text:span text:style-name="T37"> Python, </text:span><text:span text:style-name="T43">SQL,</text:span><text:span text:style-name="T37"> MySQL, PostgreSQL, Java,</text:span><text:span text:style-name="T35"> Javascript, </text:span><text:span text:style-name="T36">Typescript</text:span><text:span text:style-name="T35">, Node.js,</text:span><text:span text:style-name="T37"> C, </text:span><text:span text:style-name="T35">C</text:span><text:span text:style-name="T37">++</text:span><text:span text:style-name="T35">, C</text:span><text:span text:style-name="T54">#</text:span><text:span text:style-name="T35">, </text:span><text:span text:style-name="T38">Linux/</text:span><text:span text:style-name="T52">U</text:span><text:span text:style-name="T37">nix, </text:span><text:span text:style-name="T41">Raspberry Pi</text:span><text:span text:style-name="T37">, Arduino,</text:span><text:span text:style-name="T35"> </text:span><text:span text:style-name="T42">MATLAB</text:span><text:span text:style-name="T40">,</text:span><text:span text:style-name="T35"> HTML5, CSS,</text:span><text:span text:style-name="T37"> AWS</text:span><text:span text:style-name="T38">,</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T52">G</text:span><text:span text:style-name="T37">CP, Scala,</text:span><text:span text:style-name="T35"> PHP, Symfony, Git, Github, and Office 365</text:span></text:p>
+    <text:p text:style-name="P29"><text:span text:style-name="T29">A-Levels:</text:span><text:span text:style-name="T35"><text:tab/>Mathematics, Physics, Chemistry, BTEC IT QCF, </text:span><text:span text:style-name="T47">British School of Bahrain (2017)</text:span></text:p>
+    <text:p text:style-name="P28"><draw:frame text:anchor-type="paragraph" draw:z-index="6" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P60" svg:width="16.835cm" svg:height="0.433cm" svg:x="0.12cm" svg:y="0.004cm">
       <draw:text-box>
-       <text:p text:style-name="P61"><text:span text:style-name="T36">Thesis: <text:s text:c="17"/></text:span><text:span text:style-name="T72">Energy consumption of parallel pattern libraries – unix kernel utilised to measure energy consumed</text:span></text:p>
+       <text:p text:style-name="P59"><text:span text:style-name="T34">Thesis: <text:s text:c="17"/></text:span><text:span text:style-name="T61">Energy consumption of parallel pattern libraries – unix kernel utilised to measure energy consumed</text:span></text:p>
       </draw:text-box>
      </draw:frame>Career Summary</text:p>
-    <text:p text:style-name="P19"><text:span text:style-name="T78">OSTRUM TECH LTD.</text:span><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:span text:style-name="T79">Sep</text:span> 2021 – <text:span text:style-name="T80">Present</text:span></text:p>
-    <text:p text:style-name="P20"><text:span text:style-name="T83">Intern </text:span>Software Test Engineer</text:p>
-    <text:list xml:id="list1158073888" text:style-name="WW8Num2">
+    <text:p text:style-name="P19"><text:span text:style-name="T67">OSTRUM TECH LTD.</text:span><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:span text:style-name="T68">Sep</text:span> 2021 – <text:span text:style-name="T69">Present</text:span></text:p>
+    <text:p text:style-name="P20"><text:span text:style-name="T72">Intern </text:span>Software Test Engineer</text:p>
+    <text:list xml:id="list1017481977" text:style-name="WW8Num2">
      <text:list-item>
-      <text:p text:style-name="P54">Designing, developing and documenting test cases for black-box testing using selenium and python <text:span text:style-name="T76">for test automation and CI/CD pipeline integration</text:span>.</text:p>
+      <text:p text:style-name="P51">Designing, developing and documenting test cases for black-box testing using selenium and python <text:span text:style-name="T65">for test automation and CI/CD pipeline integration</text:span>.</text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P18"><text:bookmark-start text:name="_Hlk83845908"/>BRIGHT NETWORK<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> Jul 2021 – Aug 2021</text:p>
     <text:p text:style-name="P17">Technology Intern</text:p>
-    <text:list xml:id="list191116409555897" text:continue-numbering="true" text:style-name="WW8Num2">
+    <text:list xml:id="list172659249303098" text:continue-numbering="true" text:style-name="WW8Num2">
      <text:list-item>
-      <text:p text:style-name="P56">Developing a terminal-based video player handler as a task by Google covering the development, testing and rollout of the technology solution.</text:p>
+      <text:p text:style-name="P53">Developing a terminal-based video player handler as a task by Google covering the development, testing and rollout of the technology solution.</text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P56">Learning new technology solutions and utilising Agile Project Management methodology in line with industry best practice.</text:p>
+      <text:p text:style-name="P53">Learning new technology solutions and utilising Agile Project Management methodology in line with industry best practice.</text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P10"><text:span text:style-name="T29">PRUDEN</text:span><text:span text:style-name="T34">CE</text:span><text:span text:style-name="T29"> CAPI</text:span><text:span text:style-name="T30">I</text:span><text:span text:style-name="T29">TAL<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>Jun 2019 – Aug 2019</text:span></text:p>
     <text:p text:style-name="P17">Software Engineer Intern</text:p>
-    <text:list xml:id="list191118320678794" text:continue-numbering="true" text:style-name="WW8Num2">
+    <text:list xml:id="list172658665545269" text:continue-numbering="true" text:style-name="WW8Num2">
      <text:list-item>
-      <text:p text:style-name="P58"><text:span text:style-name="T67">Supported d</text:span>evelopment of stock trading platform alongside software developers <text:span text:style-name="T71">and fund managers</text:span> including analysis of <text:span text:style-name="T71">market</text:span> data <text:span text:style-name="T71">using back-testing algorithms</text:span>.</text:p>
+      <text:p text:style-name="P55"><text:span text:style-name="T56">Supported d</text:span>evelopment of stock trading platform alongside software developers <text:span text:style-name="T60">and fund managers</text:span> including analysis of <text:span text:style-name="T60">market</text:span> data <text:span text:style-name="T60">using back-testing algorithms</text:span>.</text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P59">Documenting all key project requirements, designs, specifications, and implementation plans in line with internal processes and procedures for project governance.</text:p>
+      <text:p text:style-name="P56">Documenting all key project requirements, designs, specifications, and implementation plans in line with internal processes and procedures for project governance.</text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P58">Liaising with colleagues covering project requirements, testing, and fault resolutions as part of a wider team including APIs and other multi-market integration platforms.</text:p>
+      <text:p text:style-name="P55">Liaising with colleagues covering project requirements, testing, and fault resolutions as part of a wider team including APIs and other multi-market integration platforms.</text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P55">Designed, developed, and ran unit and integration tests to comply with client requirements and achieve 100%</text:p>
-      <text:p text:style-name="P55">code coverage.</text:p>
+      <text:p text:style-name="P52">Designed, developed, and ran unit and integration tests to comply with client requirements and achieve 100%</text:p>
+      <text:p text:style-name="P52">code coverage.</text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P18">GATWICK AIRPORT<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>Jun 2018 – Jul 2018</text:p>
     <text:p text:style-name="P17">IT Innovation Intern</text:p>
-    <text:list xml:id="list191118215989029" text:continue-numbering="true" text:style-name="WW8Num2">
+    <text:list xml:id="list172659583642032" text:continue-numbering="true" text:style-name="WW8Num2">
      <text:list-item>
-      <text:p text:style-name="P60">Working alongside Innovation Consultants on Artificial Intelligence solutions and supporting different software projects covering augmented reality, drone-based solutions, and other innovative projects.</text:p>
+      <text:p text:style-name="P57">Working alongside Innovation Consultants on Artificial Intelligence solutions and supporting different software projects covering augmented reality, drone-based solutions, and other innovative projects.</text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P57">Providing support to colleagues across different projects including evaluating project requirements, technology solutions, and managing different aspects and documentation accordingly.</text:p>
+      <text:p text:style-name="P54">Providing support to colleagues across different projects including evaluating project requirements, technology solutions, and managing different aspects and documentation accordingly.</text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P29"><text:bookmark-end text:name="_Hlk83845908"/>References are available upon request<text:bookmark text:name="_PictureBullets"/></text:p>
